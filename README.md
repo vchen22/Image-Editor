@@ -1,4 +1,4 @@
-Description of Program: In this PA, I am manipulating an image by specifying
+Description of Program: I am manipulating an image by specifying
 what edit functions I can do. I am able to manipulate an image with the help 
 of the linear data structure called stack. Stacks keep note of all the edit
 functions I do, which helps me navigate how I want to change an image
